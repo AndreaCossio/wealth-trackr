@@ -1,2 +1,3 @@
-# wealth-trackr
+# Wealth Trackr
+
 Net worth tracker app. Full stack using Svelte and Spring Boot. Android for mobile and Firebase for authentication.
